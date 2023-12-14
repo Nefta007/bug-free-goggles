@@ -1,4 +1,4 @@
-# HEX Value REGEX Tutproa;
+# HEX Value REGEX Tutorial;
 
 This tutorial will go into detail braking down the process of interpretting a regex expression. In this case we will loook at a HEX value
 
